@@ -10,6 +10,6 @@ The reason we developed this board is that the TM4C123GXL board does not fit wel
 
 ![alt text](https://raw.githubusercontent.com/altineller/TM4C123Base/master/images/T100.jpg)
 
-It can be programmed using CCS, gcc-arm, or Energia, and it is thoroughly tested.
+It can be programmed using CCS, gcc-arm, or Energia, and it is thoroughly tested. To program it, you either need a TM4C123GXL board or an external debug probe like XDS110.
 
 Although 402 size smd components are used, it is relatively easy to solder it with hand using a hot air station. The gerbers are produced so any board house can build them.
