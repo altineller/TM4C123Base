@@ -1,6 +1,6 @@
 # TM4C123Base
 
-Reference Design for the TM4C123GH6PM for Robotics
+## Reference Design for the TM4C123GH6PM for Robotics
 
 This is a MCU board for using the ARM Cortex-M4 TM4C123GH6PM microcontroller in small robotics.
 
